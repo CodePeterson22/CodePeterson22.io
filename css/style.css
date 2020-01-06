@@ -1,3 +1,12 @@
+.intro{
+  background-color:blue;
+  float: right;
+  margin-right: 100px;
+  100px;"
+}
+.rainbow {
+  color: #FF8C00;
+}
 h2 {
   color:white;
   font-size:25px;
@@ -12,4 +21,11 @@ a:hover{
 }
 a:active{
   color:blue
+}
+.movingthingy {
+  color: violet;
+  font-size:50px;
+}
+.sports{
+  color:
 }
